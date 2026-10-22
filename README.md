@@ -1,6 +1,6 @@
 # Selected Biomedical Engineering Literature Reviews
 
-These three literature reviews were prepared for coursework during my Biomedical Engineering studies in 2025. They are shared as supplementary academic writing samples.
+These three literature reviews were prepared for coursework during my Biomedical Engineering studies. They are shared as supplementary academic writing samples.
 
 ## 1. Utah Intracortical Electrode Array: Bridging Neural Intent and Machine Response
 
